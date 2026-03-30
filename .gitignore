@@ -1,0 +1,51 @@
+# dependencies
+node_modules/
+Polaroom/node_modules/
+
+# build files
+Polaroom/.vite/
+Polaroom/dist/
+
+# editor and tooling folders
+.vscode/
+.idea/
+.cursor/
+.claude/
+.agents/
+
+# cache, temp and reports
+.cache/
+.temp/
+tmp/
+temp/
+logs/
+coverage/
+.nyc_output/
+storybook-static/
+.turbo/
+.next/
+.nuxt/
+.svelte-kit/
+.angular/
+.vercel/
+
+# wrangler files
+.wrangler/
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
+
+# supabase local repo
+Polaroom/supabase/
+
+# local env files inside app
+.env
+Polaroom/.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# outros
+ROADMAP.md
