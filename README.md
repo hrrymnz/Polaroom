@@ -2,7 +2,7 @@
 
 O Polaroom é um site pessoal criado para organizar coisas do dia a dia: links favoritos, playlists, anotações, resumos e muito mais. Ele também serve como um espaço de prática e experimentação de ideias de desenvolvimento.
 
-O visual é inspirado nas eras da Taylor Swift — isso faz parte da identidade do projeto.
+O visual é inspirado nas eras da Taylor Swift, isso faz parte da identidade do projeto.
 
 Acesse em: [polaroom.page](https://polaroom.page)
 
@@ -79,4 +79,4 @@ npx wrangler deploy
 
 ---
 
-*O projeto está em constante evolução e recebe novidades com frequência.*
+*O projeto está em constante evolução e recebe atualizações com frequência.*
